@@ -52,11 +52,3 @@
 - Outside coding, I also enjoy staying active and doing sports
 
 </details>
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/veikko-pelkonen-b688a6338/)
-
-## GitHub stats
-
-![Veikko's GitHub stats](https://github-readme-stats.vercel.app/api?username=veikkope&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
