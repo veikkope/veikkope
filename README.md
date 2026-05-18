@@ -1,19 +1,27 @@
-# Moi, olen Veikko Pelkonen 👋
+# Hi, I'm Veikko Pelkonen 👋
 
-Full-stack developer from Finland.
+Full-stack developer from Finland, building modern web and mobile projects.
 
-## Työstän nyt
-- SmoothBookingia
-- Booking- ja queue-management -ratkaisuja
-- Next.js / TypeScript / Firebase -projekteja
+## About me
+- I enjoy building practical software products and experimenting with new ideas.
+- Currently working on booking and queue management concepts, including SmoothBooking.
+- Interested in full-stack development, SaaS products, and clean user-focused interfaces.
 
-## Osaaminen
-- Next.js
-- React
+## Tech stack
 - TypeScript
+- React / Next.js
 - Firebase / Firestore
 - Node.js
-- Vercel
+- Kotlin
+- Swift
 
-## Minusta
-Rakennan käytännöllisiä SaaS-tuotteita ja tykkään kehittää selkeitä, toimivia web-sovelluksia.
+## Featured projects
+- **SmoothBooking** – Booking and queue management product concept
+- **Klubi** – Website project built with TypeScript
+- **Kazakstan** – Travel planning test project
+
+## Connect
+- GitHub: [veikkope](https://github.com/veikkope)
+- LinkedIn: [Veikko Pelkonen](https://www.linkedin.com/in/veikko-pelkonen-b688a6338/)
+
+Thanks for visiting my profile.
