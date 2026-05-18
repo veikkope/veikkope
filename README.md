@@ -3,9 +3,15 @@
 Full-stack developer from Finland, building web, mobile, and product-focused software.
 
 ## About me
-- I enjoy building practical software and turning ideas into working products.
-- Currently interested in SaaS, booking systems, and modern full-stack development.
-- Built a private drone control and detection project for a company, focused on real-time UI, local detection, backend integration, and tracking workflows.
+- Full-stack developer from Finland building practical software products.
+- Interested in SaaS, modern web development, mobile apps, and product-focused engineering.
+- Built a private drone control and detection project for a company, focused on real-time UI, local detection, and tracking workflows. More background is available on my LinkedIn.
+
+## Education
+- Studied Information Technology at Metropolia University of Applied Sciences.
+- Strong academic focus on software engineering, web development, mobile application development, and cybersecurity.
+- Completed coursework in object-oriented programming, design patterns, data structures and algorithms, ethical hacking, and software supply chain security.
+- Completed Bachelor's thesis with excellent results.
 
 ## Tech stack
 - TypeScript
