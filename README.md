@@ -1,11 +1,11 @@
 # Hi, I'm Veikko Pelkonen 👋
 
-Full-stack developer from Finland, building modern web and mobile projects.
+Full-stack developer from Finland, building web, mobile, and product-focused software.
 
 ## About me
-- I enjoy building practical software products and experimenting with new ideas.
-- Currently working on booking and queue management concepts, including SmoothBooking.
-- Interested in full-stack development, SaaS products, and clean user-focused interfaces.
+- I enjoy building practical software and turning ideas into working products.
+- Currently interested in SaaS, booking systems, and modern full-stack development.
+- Built a private drone control and detection project for a company, focused on real-time UI, local detection, backend integration, and tracking workflows.
 
 ## Tech stack
 - TypeScript
@@ -15,13 +15,11 @@ Full-stack developer from Finland, building modern web and mobile projects.
 - Kotlin
 - Swift
 
-## Featured projects
+## Selected work
 - **SmoothBooking** – Booking and queue management product concept
 - **Klubi** – Website project built with TypeScript
 - **Kazakstan** – Travel planning test project
+- **Private company project** – Drone control and detection system
 
 ## Connect
-- GitHub: [veikkope](https://github.com/veikkope)
 - LinkedIn: [Veikko Pelkonen](https://www.linkedin.com/in/veikko-pelkonen-b688a6338/)
-
-Thanks for visiting my profile.
